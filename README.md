@@ -214,7 +214,7 @@ or
 		'country' = '',
 		'language' = 'address',
 		'phone' = ' '
-	}
+ }
 ]
 ```
 ##### 返回信息
@@ -320,9 +320,9 @@ or
 请求类型：POST
 请求头包含字段：token、openid
 ```
-<div markdown="1" class="alert alert-info">
+
 ** 注意 ** ：URL中的code为前端调取接口获得用户授权后返回的code值
-</div>
+
 ### 返回数据示例
 ```'json
 { 
